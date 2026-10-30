@@ -26,13 +26,8 @@ La demo utiliza la Data Table **`DT_DialogueTextStyles`** con filas `Default`, `
 
 ![Ejemplo de marcado en la Data Table](../images/richtext-ejemplo-etiquetas.png)
 
-## 3. Verificar el widget
 
-Comprueba que el widget responsable de presentar el texto utiliza un **Rich Text Block** con su tabla asignada en **Text Style Set**. La captura exacta de esa asignación todavía está pendiente de incorporarse.
-
-![Asignación de estilos al widget](../images/richtext-widget-configuracion.png)
-
-## 4. Resultado y recomendaciones
+## 3. Resultado y recomendaciones
 
 ![Texto con colores dentro del juego](../images/richtext-en-juego.png)
 
