@@ -40,7 +40,7 @@
 
 ## Vista rápida del proyecto Full
 
-![Actor Components del paquete Full](images/instalacion-actor-component.png)
+![Actor Components del paquete Full](..images/instalacion-actor-component.png)
 
 ## Primera conversación
 
