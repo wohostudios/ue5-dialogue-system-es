@@ -49,8 +49,5 @@ Para las filas de diálogo normales, elige el valor de `Type` correspondiente a 
 
 Con `AC_DialogueManager` en el Player, llama a `Dialogue Create Widgets` y después a `Dialogue Play Conversation`, conectando la Data Table al pin `Conversation`.
 
-## 5. Capturas
-
-Las referencias anteriores apuntan a `images/estructura-dialogue-line.png` y `images/configuracion-data-table.png`. Conserva esos nombres al subir las imágenes a GitHub.
 
 Siguiente: [Eventos](03-eventos.md).
