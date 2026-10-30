@@ -38,7 +38,7 @@
 - Paquete Full instalado desde Fab y su contenido disponible en el proyecto.
 - Las versiones concretas de UE5 y plataformas soportadas deben corresponder a las indicadas en la ficha de Fab.
 
-## Vista rápida del proyecto Full
+## Vista rápida
 
 ![Actor Components del paquete Full](images/instalacion-actor-component.png)
 
