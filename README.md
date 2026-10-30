@@ -70,4 +70,4 @@ Las Data Tables de **conversaciones** creadas con Free se pueden reutilizar en F
 - [Comunidad en Discord (español)](https://discord.gg/JY5JTQaWqn)
 - [Documentación del Starter Pack Free (ES)](https://github.com/wohostudios/ue5-dialogue-system-starter-pack-es)
 
-**Nota editorial:** esta documentación se basa en los Blueprints y los flujos compartidos del sistema. Los pasos indicados como «Verificar en el proyecto» requieren una captura del Blueprint Full antes de publicarlos como instrucciones exactas.
+
