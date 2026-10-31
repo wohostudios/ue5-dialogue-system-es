@@ -37,7 +37,7 @@ Player Character Blueprint
 - `BPI_DialogueEvents`: `ExecuteDialogueEvent` y continuación de conversación.
 - `BPI_PlayerDialogue`: `ExecuteDialogueFromDecision`, que devuelve `Selected Result ID`, `Requester` y `Active Decision Widget`.
 
-La documentación antigua menciona otras interfaces para audio, widgets y ciclo de vida. Conserva esas referencias como contexto, pero verifica sus funciones y firmas actuales antes de crear integraciones personalizadas.
+
 
 **No se requiere `BP_DialogueGameInstance`.**
 
