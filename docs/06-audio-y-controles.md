@@ -32,7 +32,7 @@ En el flujo de presentación de cada línea, el manager obtiene el texto, audio 
 
 ![Reproducción de audio y temporizador](../images/dialogo-audio-reproduccion.png)
 
-**Nota técnica:** para explicar con precisión la prioridad entre `Audio Duration` y `Duration` cuando existe audio, conviene revisar la función completa `Dialogue_PlayAudio` y la conexión de `Set Timer by Event`; la captura disponible muestra el flujo parcial y no justifica una regla universal.
+
 
 ## 4. Control del jugador
 
