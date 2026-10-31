@@ -21,7 +21,7 @@ En la fila correspondiente, configura el tipo de línea `Event` cuando aplique e
 
 ## 3. ¿Cómo llega el mensaje?
 
-Según el flujo del componente que revisamos, la implementación documentada del sistema de diálogos usa **Get All Actors with Interface** (`BPI_DialogueEvents`), recorre el resultado con **For Each Loop** y envía **Execute Dialogue Event** a cada receptor, incluyendo el nombre del evento.
+La implementación documentada del sistema de diálogos usa **Get All Actors with Interface** (`BPI_DialogueEvents`), recorre el resultado con **For Each Loop** y envía **Execute Dialogue Event** a cada receptor, incluyendo el nombre del evento.
 
 ```text
 DT_MiConversacion (TriggerEvent: PowerActivate)
@@ -41,11 +41,8 @@ DT_MiConversacion (TriggerEvent: PowerActivate)
 
 ![Receptor de eventos en el personaje](../images/eventos-player-character.png)
 
-## 4. Eventos de inicio y fin
 
-La documentación de la arquitectura anterior describe `BPI_DialogueConversation` con `ConversationStarted()` y `ConversationFinished()`. En Full pueden utilizarse para responder al comienzo o final de una conversación (por ejemplo bloquear movimiento u ocultar HUD). **Verificar en el proyecto:** clase receptora, firma y ruta exacta de emisión tras la migración a `AC_DialogueManager`.
-
-## 5. Relación con las decisiones
+## 4. Relación con las decisiones
 
 La demo Full usa un caso del `Switch on Name` denominado `Make Decision` para abrir opciones con `AC_DecisionManager`. Consulta [la guía de decisiones](04-decisiones.md).
 
